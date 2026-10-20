@@ -276,7 +276,7 @@ export default function Landing() {
       <footer className="footer wrap">
         <span className="logo">DANSK</span>
         <span className="footer-line" />
-        <span className="tagline">Sprog · Muligheder · Fremtid</span>
+        <span className="tagline">Creater Nikita Yeltsov</span>
       </footer>
     </div>
   );
